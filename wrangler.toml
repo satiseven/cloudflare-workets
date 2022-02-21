@@ -1,0 +1,8 @@
+name = "hello"
+type = "javascript"
+
+account_id = "b2221217393b9bc2a67eda7ce10c6faa"
+workers_dev = true
+route = ""
+zone_id = "82fb6803132853beeea95761d065ad72"
+compatibility_date = "2022-02-21"
